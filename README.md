@@ -61,4 +61,4 @@
     
 	<header>
         <a href="Thanks.html"><p><input type="submit" value="submit"></p></a>
-	</header>
+	</header> 
